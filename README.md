@@ -46,7 +46,7 @@ The goal is to uncover insights that can support business decision-making, impro
 ## 📊 Dashboard Visuals  
 
 ### Customer Distribution Dashboard  
-![Customer Distribution] (MetroBankCustomerDistributiondashboard.png)  
+
 
 ### Branch Performance Dashboard  
 ![Branch Performance](dashboard2.png)  
