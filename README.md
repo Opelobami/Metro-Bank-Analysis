@@ -18,13 +18,13 @@ The goal is to uncover insights that can support business decision-making, impro
 ---
 
 ## 🛠️ Tools & Technologies  
-- **Excel** – data cleaning, Power Query, Pivot Tables, Pivot Charts, Interactice dashboards and Visualizations 
+- **Excel** – Data cleaning using Power Query, Pivot Tables and Charts for analysis and Visualizations, Power Pivot for Data Modeling, Calculated columns and Measures, Interactice Dashboards and Visualizations for Stakeholders.
 ---
 
 ## 🔎 Analysis Steps  
 1. **Data Cleaning:** Removed duplicates, handled missing values, standardized formats.  
 2. **Exploratory Analysis:** Summary statistics, customer segmentation, and trend analysis.
-3. **Data Analysis** Data Merging, Created Calculated Columns, Pivot tables, Power Pivot, Pivot Charts.  
+3. **Data Analysis** Data Merging, Created Calculated Columns and Measures, Pivot tables, Power Pivot, Pivot Charts to solve Business Questions. 
 4. **Visualization:** Dashboards highlighting customer behavior, transaction behavior and pattern, financial relationship, branch review, customer experience and risk intelligence.
 
 ---
