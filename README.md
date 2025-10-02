@@ -45,15 +45,23 @@ The goal is to uncover insights that can support business decision-making, impro
 
 ## 📊 Dashboard Visuals  
 
-### Customer Distribution Dashboard  
+### Customer Distribution Dashboard
+![Customer Distribution Dashboard](MetroBankCustomerDistributionDashboard.png)
 
+### Account and Customer Performance Dashboard  
+![Account Dashboard](MetroBankFiancialRelationshipDashboard.png)
 
-### Branch Performance Dashboard  
-![Branch Performance](dashboard2.png)  
+### Transaction Dashboard  
+![Transaction Dashboard](TransactionandBehaviorPattern.png) 
+  
+### Branch Dashboard  
+![Branch Performance Dashboard](BranchPerformanceReview.png) 
 
 ### Customer Experience Dashboard  
-![Customer Experience](dashboard3.png)  
-  
+![Customer Experience Dashboard](CustomerExperienceViz.png)
+
+### Risk Intelligence Dashboard  
+![Risk Intelligence Dashboard](MetroBankRiskIntelligenceViz.png)
 
 ---
 
