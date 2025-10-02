@@ -45,22 +45,22 @@ The goal is to uncover insights that can support business decision-making, impro
 ## 📊 Dashboard Visuals  
 
 ### 1. Customer Distribution  
-![Customer Distribution](https://github.com/user-attachments/assets/addd5f6f-36af-4df7-9f64-10f215f9c2ee)
+![Customer Distribution] (https://drive.google.com/file/d/10fwCZhNc0X_CaiMkOLef-wkvn3ihicgA/view?usp=drive_link)
 
-### 2. Branch Performance  
-![Branch Performance](https://github.com/user-attachments/assets/fe14f876-f642-4c65-bd2e-dc0c4ae50d8c)
+### 2. Account Analysis
+![Mapping out financial relationship] (https://drive.google.com/file/d/18OqnqAg9whWz5QJzqrqlMScGNR4xch0X/view?usp=drive_link)
 
-### 3. Customer Experience  
-![Customer Experience](https://github.com/user-attachments/assets/bcd2eb98-fce2-4575-a0cb-8ffd84b16797)
+### 3. Transaction Dashboard  
+![Transaction Experience] (https://drive.google.com/file/d/1pjpDUfct9uSrxcyoUXFv77dfNkBxWZhD/view?usp=drive_link)
 
-### 4. Transaction Trends  
-![Transaction Trends](https://github.com/user-attachments/assets/eee3720c-31f9-4f87-a024-e62af2e19f6c)
+### 4. Branch Analysis  
+![Branch Perfromance Review] (https://drive.google.com/file/d/1W3DM3b_EGUJcC-Gf6ac4WxYf6xTF8Euf/view?usp=drive_link)
 
-### 5. Account Types Analysis  
-![Account Types](https://github.com/user-attachments/assets/c94a988f-84a0-42fc-ae5f-f8f81286ac35)
+### 5. Customer Experience  
+![From complaints to Strategy] (https://drive.google.com/file/d/1yhHXujYFgvCI5YAJWeCMMzV84bqdu4GO/view?usp=drive_link)
 
-### 6. Overall Summary Dashboard  
-![Overall Summary](https://github.com/user-attachments/assets/ff15746c-a05f-4644-8b68-dad6babad4c8)
+### 6. Risk Intelligence  
+![From Complaint to Strategy] (https://drive.google.com/file/d/1WuLtYxZX0Tp0ZxERRns5SqycQatvXtrf/view?usp=drive_link)
 
 ---
 
