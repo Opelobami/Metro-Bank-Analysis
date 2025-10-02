@@ -42,26 +42,25 @@ The goal is to uncover insights that can support business decision-making, impro
 - *19.29% of comaplaints were fraud and 28.33% of fraud complaints omes from the North*
 
 ---
-
 ## 📊 Dashboard Visuals  
 
-### Customer Distribution Dashboard
-![Customer Distribution Dashboard](Dashboard1.png)
+### 1. Customer Distribution  
+![Customer Distribution](https://github.com/user-attachments/assets/addd5f6f-36af-4df7-9f64-10f215f9c2ee)
 
-### Account and Customer Performance Dashboard  
-![Account Dashboard](Dashboard2.png)
+### 2. Branch Performance  
+![Branch Performance](https://github.com/user-attachments/assets/fe14f876-f642-4c65-bd2e-dc0c4ae50d8c)
 
-### Transaction Dashboard  
-![Transaction Dashboard](Dashboard3.png) 
-  
-### Branch Dashboard  
-![Branch Performance Dashboard](Dashboard4.png) 
+### 3. Customer Experience  
+![Customer Experience](https://github.com/user-attachments/assets/bcd2eb98-fce2-4575-a0cb-8ffd84b16797)
 
-### Customer Experience Dashboard  
-![Customer Experience Dashboard](Dashboard5.png)
+### 4. Transaction Trends  
+![Transaction Trends](https://github.com/user-attachments/assets/eee3720c-31f9-4f87-a024-e62af2e19f6c)
 
-### Risk Intelligence Dashboard  
-![Risk Intelligence Dashboard](Dashboard6.png)
+### 5. Account Types Analysis  
+![Account Types](https://github.com/user-attachments/assets/c94a988f-84a0-42fc-ae5f-f8f81286ac35)
+
+### 6. Overall Summary Dashboard  
+![Overall Summary](https://github.com/user-attachments/assets/ff15746c-a05f-4644-8b68-dad6babad4c8)
 
 ---
 
