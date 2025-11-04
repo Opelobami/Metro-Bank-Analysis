@@ -1,8 +1,6 @@
 # 🏦 Metro Bank Analysis  
 
-An exploratory **data analysis of Metro Bank** customer behavior, transactions, accounts, branches, customer experience, and risk intelligence all conducted using **Microsoft Excel**.  
-
-This analysis transforms raw financial and behavioral data into actionable insights that can help **improve customer experience**, **enhance branch performance**, and **inform strategic business decisions**.  
+📌 A 5-week data analytics project examining customer behavior, branch performance, and risk intelligence at Metro Bank.
 
 ---
 
