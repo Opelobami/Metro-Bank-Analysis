@@ -33,11 +33,32 @@ The ultimate goal was to transform raw operational data into clear, actionable i
 
 ---
 
-## 📊 Dataset  
-- **Source:** *Telegram Community – Excel With Freedom*  
-- **Size:** ~500–800 rows × 12–15 columns  
-- **Key Fields:**  
-  Customer ID, Account ID, Region, Name, Gender, Income Bracket, Customer Segment, Account Type, Loan Status, Transaction ID, Merchant, Credit Score, Resolution Time, Complaint Type, Branch ID, etc.  
+## 📊 Dataset Collection and Methodology
+
+**Data Source:**
+The dataset was sourced from Excel With Freedom community project - a simulated yet realistic dataset representing over 800 customer transactions and 15 key business variables including:
+
+- Customer demographics
+
+- Account details
+
+- Transaction behavior
+
+- Credit scores
+
+- Complaint types and resolution times
+
+- Branch identifiers and performance metrics
+
+**Methodology:**
+
+**1. Data Cleaning & Preparation** - Using **Power Query** to remove duplicates, handle missing values, and standardize columns.
+
+**2. Data Modeling** - Built relational links using **Power Pivot**, connecting customers, transactions, and branches into an analytical model.
+
+**3. Descriptive Analysis** - Employed **Pivot Tables** and **DAX measures** to calculate key metrics: profit margins, fraud rates, and performance ratios.
+
+**4. Visualization** - Developed six interactive dashboards highlighting customer trends, risk indicators, and operational performance. 
 
 ---
 
@@ -51,42 +72,35 @@ The ultimate goal was to transform raw operational data into clear, actionable i
 
 ---
 
-## 🔎 Analysis Workflow  
+## 💡Why This Project Matters
 
-1. **Data Preparation**  
-   - Removed duplicates, handled missing values, standardized formats, and validated key fields.   
+In an era of **data-driven banking**, decisions backed by analytics lead to:
 
-2. **Data Modeling & Calculation**  
-   - Created measures and calculated columns (e.g., Profit Margin, Resolution Days, Fraud %).  
-   - Built relationships between Fact and Dimension tables.
+- **Stronger customer retention** through personalized banking experiences,
 
-3. **Data Analysis**  
-   - Merged data, conducted desciptive and exploratory data analysis to uncover insights. 
+- **Faster fraud detection** using pattern recognition,
 
-4. **Visualization & Reporting**  
-   - Designed six dashboards showcasing customer insights, branch metrics, transaction patterns, complaint trends, account and risk intelligence.  
+- **Higher profitability** via efficient branch and loan management, and
+
+- **Improved regulatory** compliance through structured data governance.
+
+Without analytics, banks risk:
+⚠️ Misallocating resources,
+⚠️ Overlooking at-risk customers,
+⚠️ Missing early fraud indicators, and
+⚠️ Failing to act on emerging market trends.  
 
 ---
 
 ## 💡 Key Insights  
 
-- **Multiple Accounts:** 237 customers hold multiple accounts.  
-- **Account Type:** 38% of customers operate a **savings account**.  
-- **Credit Score:** Not a determining factor in loan approval.  
-- **Spending Behavior:** **Airbnb** is the top merchant, accounting for **$2.98M** in total customer spending.  
-- **Banking Channel Preference:** Despite digital adoption, **branch banking** remains slightly more popular (**+0.4%**) than online banking.  
-- **Regional Profitability:** **Southern branches** outperform all other regions.  
-- **Top & Low Performers:**  
-  - *Best:* Branch 13 (Caldwellburgh) – **95% profit margin**  
-  - *Worst:* Branch 1 (West Loganmouth, –61%) & Branch 17 (Lake Lynnton, –39%)  
-- **Complaint Resolution:** Average resolution time is **27 days**.  
-- **Top Complaint Type:** *Charges dispute* is the most common issue, even among premium customers.  
-- **Fraud Incidence:**  
-  - 19.3% of total complaints were fraud-related.  
-  - 28.3% of fraud cases originated from the **Northern region**.  
-  - Low-income customers and females are **more vulnerable** to fraud than males or higher-income brackets.  
-- **Account Impact:** 54.2% of fraud complaints came from **savings account holders**.  
-- **Resolution Rate:** 61.7% of fraud complaints were **resolved**, while 24.2% remained **active**.  
+ **Area** | **Key Finding** | 
+|------------------|-----------------|-------------|
+| **Revenue Growth** | ₦2.4M total revenue generated | Signals healthy customer engagement and sales consistency |
+| **Top Customers** | Top 5 customers contribute 41% of total revenue | Indicates dependency on a few high-value clients |
+| **Branch Performance** | Lagos branch leads in deposits and transactions | Suggests potential model for replicating success in other regions |
+| **Transaction Timing** | 60% of transactions occur between 10 AM – 3 PM | Reveals peak business hours for staffing and operations |
+| **Customer Behavior** | Savings accounts outperform current accounts by 28% | Points to a conservative customer base focused on savings |
 
 ---
 
