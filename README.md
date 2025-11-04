@@ -5,10 +5,31 @@
 ---
 
 ## 📘 Overview  
-This project examines the operational and customer data of **Metro Bank** to uncover behavioral trends, spending patterns, and performance gaps.  The analysis focuses on six key areas:  
-**Customer Behavior, Accounts, Transactions, Branch Performance, Customer Experience, and Risk Intelligence.**  
+The Metro Bank Analysis is a comprehensive data analytics project designed to uncover key behavioral, operational, and financial patterns across Metro Bank’s ecosystem.
 
-The primary goal is to **support decision-making**, **increase customer satisfaction**, and **identify growth opportunities** within the banking ecosystem.  
+Conducted using Microsoft Excel, the analysis explored six major dimensions of the bank’s operations:
+
+- Customer Behavior
+
+- Accounts & Transactions
+
+- Branch Performance
+
+- Customer Experience
+
+- Credit & Loan Analysis
+
+- Risk Intelligence
+
+The ultimate goal was to transform raw operational data into clear, actionable insights that empower executives to:
+
+- Enhance customer satisfaction,
+
+- Strengthen risk control measures,
+
+- Improve branch-level efficiency, and
+
+- Drive profitable decision-making across all banking channels.  
 
 ---
 
