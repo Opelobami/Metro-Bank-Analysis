@@ -1,10 +1,10 @@
 # 🏦 Metro Bank Analysis  
 
-📌 An analytics project examining customer behavior, branch performance, and risk intelligence at Metro Bank.
+An analytics project examining customer behavior, branch performance, and risk intelligence at Metro Bank.
 
 ---
 
-## 📘 Overview  
+## Overview  
 The Metro Bank Analysis is a comprehensive data analytics project designed to uncover key behavioral, operational, and financial patterns across Metro Bank’s ecosystem.
 
 Conducted using Microsoft Excel, the analysis explored five major dimensions of the bank’s operations:
@@ -31,7 +31,7 @@ The ultimate goal is to transform raw operational data into clear, actionable in
 
 ---
 
-## 💡Why This Project Matters
+## Why This Project Matters
 
 In an era of **data-driven banking**, decisions backed by analytics lead to:
 
@@ -57,7 +57,7 @@ Without analytics, banks risk:
 
 ---
 
-## 📊 Dataset Collection and Methodology
+## Dataset Collection and Methodology
 
 **Data Source:**
 The dataset was sourced from Excel With Freedom community project - a simulated yet realistic dataset representing over 800 customer transactions and 15 key business variables including:
@@ -86,7 +86,7 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 🧰 Tools & Techniques  
+## Tools & Techniques  
 - **Excel**
   - Power Query for data cleaning and transformation  
   - Power Pivot for modeling and relationships  
@@ -96,7 +96,7 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 📊 Key Insights  
+## Key Insights  
 
 | **Insight Area** | **Key Finding** |
 |------------------|-----------------|
@@ -110,9 +110,9 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 📊 Dashboard Visuals  
+## Dashboard Visuals  
 
-> Click the links below to view individual dashboards hosted on Google Drive 👇  
+> Click the links below to view individual dashboards hosted on Google Drive  
 
 ### 1. Customer Distribution  
 [Customer Distribution](https://drive.google.com/file/d/10fwCZhNc0X_CaiMkOLef-wkvn3ihicgA/view?usp=drive_link)
@@ -134,7 +134,7 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - **Branch Banking Still Matters:** Despite digital growth, customers still value human interaction for complex needs
 - **Fraud and Complaints Are Silent Profit Eroders:** Delays in resolution reduce trust and increase attrition
@@ -143,7 +143,7 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 🎯 Recommendations  
+## Recommendations  
 
 Strategic actions designed to help Metro Bank optimize performance and customer satisfaction.
 
@@ -156,7 +156,7 @@ Strategic actions designed to help Metro Bank optimize performance and customer 
 | **Complaint Management** | Automate tracking and escalation to cut resolution time to <15 days. | Boosts satisfaction and regulatory compliance. |
 ---
 
-## ⚠️ Risks of Inaction 
+## Risks of Inaction 
 
 If these insights are ignored:
 
@@ -168,7 +168,7 @@ If these insights are ignored:
 
 ---
 
-## 🌟 Benefits of Action  
+## Benefits of Action  
 
 By acting decisively, Metro Bank can:
 
@@ -179,14 +179,14 @@ By acting decisively, Metro Bank can:
 
 ---
 
-## 🧾 Conclusion  
+## Conclusion  
 The Metro Bank Analysis demonstrates how data can unveil hidden patterns that drive real business outcomes. It’s not just about numbers, it’s about translating data into decisions that create value for customers, confidence for investors, and clarity for leadership.
 
 *In banking, data doesn’t just tell us what happened, it tells us what must happen next* 
 
 ---
 
-## 📬 Contact  
+## Contact  
 
 Let’s connect or collaborate on **Data Analytics, Excel Dashboards, or Power BI projects** 👇  
 
