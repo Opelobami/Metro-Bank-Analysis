@@ -188,7 +188,7 @@ The Metro Bank Analysis demonstrates how data can unveil hidden patterns that dr
 
 ## Contact  
 
-Let’s connect or collaborate on **Data Analytics, Excel Dashboards, or Power BI projects** 👇  
+Let’s connect or collaborate on **Data Analytics, Excel Dashboards, or Power BI projects**
 
 - **👤 Name:** Opeyemi Ayodeji  
 - **🔗 LinkedIn:** [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
