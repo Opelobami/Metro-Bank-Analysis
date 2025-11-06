@@ -104,41 +104,6 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 🎯 Recommendations  
-
-Strategic actions designed to help Metro Bank optimize performance and customer satisfaction.
-
-| **Recommendation** | **Action Steps** | **Expected Outcome** |
-|--------------------|------------------|----------------------|
-| **Diversify Customer Base** | Develop mid-tier client products and loyalty programs. | Reduced revenue risk and improved portfolio balance. |
-| **Optimize Operations** | Align staffing schedules with 10 AM–3 PM transaction peaks. | Improved efficiency and reduced waiting times. |
-| **Replicate Top Branch Model** | Use Lagos branch success as a blueprint for others. | Standardized service quality and improved branch performance. |
-| **Promote Current Accounts** | Offer incentives and digital benefits for active current accounts. | Increased customer engagement and transaction volume. |
-| **Expand Digital Channels** | Enhance mobile and online platforms for seamless banking. | Broader reach and stronger customer retention. |
-| **Adopt Predictive Analytics** | Use SQL and Power BI models to forecast performance and churn. | Data-driven planning and proactive decision-making. |
-
----
-
-## ⚠️ Risks of Inaction  
-
-- Over-dependence on few customers could cause sudden revenue dips.  
-- Misaligned staffing with peak hours may lower customer satisfaction.  
-- Failure to modernize operations could reduce competitiveness.  
-
----
-
-## 🌟 Benefits of Action  
-
-- Boosted profitability and operational efficiency.  
-- Stronger customer loyalty and retention.  
-- Data-backed decisions driving consistent growth.  
-- Sustained leadership in Nigeria’s financial service market.  
-
----
-
-📌 *Turning data into direction — because insight only matters when it drives action.*
-
-
 ## 📊 Dashboard Visuals  
 
 > Click the links below to view individual dashboards hosted on Google Drive 👇  
@@ -172,41 +137,45 @@ Strategic actions designed to help Metro Bank optimize performance and customer 
 
 ---
 
-## 🎯 Recommendations
+## 🎯 Recommendations  
 
- **Area** | **Key Finding** | **Benefits** |
-|------------------|-----------------|-------------|
-| **Customer Base** | 237 customers operate multiple accounts, creating an opportunity for cross-selling |
-| **Account Type** | Savings accounts dominate at 38%, signals customer preference and liquidity trend |
-| **Banking Channel** | Branch banking remains slightly more popular (+0.4%) than digital indicating a need for hybrid optimization |
-| **Credit Score** | Weak correlation between credit score and loan approval |
-| **Fraud Risk** | 19.3% of all complaints are fraud-related; Northern region most affected (28.3% of fraud cases) |
-| **Customer Demographics** | Low-income and female customers are more vulnerable to fraud attempts |
-| **Complaint Resolution** | Average time to resolve complaints is 27 days, exceeding industry benchmarks |
+Strategic actions designed to help Metro Bank optimize performance and customer satisfaction.
 
+| **Objective** | **Recommended action** | **Benefit** |
+|--------------------|------------------|----------------------|
+| **Customer Retention** | Launch loyalty and referral programs for high-value customers. | Increases lifetime value and advocacy. |
+| **Fraud Reduction** | Implement targeted fraud monitoring for low-income female customers. | Reduces risk exposure and compensation costs. |
+| **Branch Optimization** | Audit and replicate best practices from top-performing southern branches. | Enhances consistency and profitability. |
+| **Digital Growth** | Incentivize digital adoption while improving in-branch experience. | Balances convenience and trust. |
+| **Complaint Management** | Automate tracking and escalation to cut resolution time to <15 days. | Boosts satisfaction and regulatory compliance. |
+---
 
+## ⚠️ Risks of Inaction 
 
-## 🧾 Conclusion  
-The analysis highlights key areas influencing **customer behavior**, **branch profitability**, and **operational risks**.  Findings emphasize the need for **data-driven customer management**, **targeted risk mitigation**, and **regional performance optimization**.  
+If these insights are ignored:
+
+- Over-dependence on few customers could cause sudden revenue dips.
+- Customer churn may increase due to slow response times.
+- Fraud losses could compound, especially in high-risk regions.
+- Resource allocation may continue favoring low-yield branches.
+- The bank may miss cross-sell opportunities worth millions annually.
 
 ---
 
-## 🎯 Recommendations  
+## 🌟 Benefits of Action  
 
-1. **Customer Retention**  
-   - Reward high-value customers with loyalty programs and personalized offers.  
+By acting decisively, Metro Bank can:
+✅ Improve profitability across branches by up to 15–20%.
+✅ Strengthen customer trust and retention.
+✅ Reduce fraud-related losses by 30%.this   
+✅ Data-backed decisions driving consistent growth.  
 
-2. **Fraud Prevention**  
-   - Implement stronger fraud detection systems targeting high-risk segments (low-income and female customers).  
+---
 
-3. **Branch Optimization**  
-   - Audit low-performing branches and replicate strategies from high-performing regions.  
+## 🧾 Conclusion  
+The Metro Bank Analysis demonstrates how data can unveil hidden patterns that drive real business outcomes. It’s not just about numbers, it’s about translating data into decisions that create value for customers, confidence for investors, and clarity for leadership.
 
-4. **Digital Banking Growth**  
-   - Promote internet banking adoption with incentives while maintaining branch service quality.  
-
-5. **Complaint Resolution**  
-   - Reduce average resolution time below 15 days through automation and better escalation workflows.  
+*In banking, data doesn’t just tell us what happened, it tells us what must happen next* 
 
 ---
 
@@ -219,3 +188,5 @@ Let’s connect or collaborate on **Data Analytics, Excel Dashboards, or Power B
 - **📧 Email:** sopeyemi65@gmail.com  
 
 ---
+
+📌 *Turning data into direction because insight only matters when it drives action.*
