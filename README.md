@@ -44,9 +44,12 @@ In an era of **data-driven banking**, decisions backed by analytics lead to:
 - **Improved regulatory** compliance through structured data governance.
 
 Without analytics, banks risk:
-⚠️ Misallocating resources,
+⚠️ Misallocating resources
+
 ⚠️ Overlooking at-risk customers,
+
 ⚠️ Missing early fraud indicators, and
+
 ⚠️ Failing to act on emerging market trends.  
 
 ---
