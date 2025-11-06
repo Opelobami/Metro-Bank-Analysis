@@ -90,92 +90,54 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 💡 Key Insights  
-
- **Area** | **Key Finding** | 
-|------------------|--------|
-| **Customer Base** | 237 customers operate multiple accounts, creating an opportunity for cross-selling |
-| **Account Type** | Savings accounts dominate at 38%, signals customer preference and liquidity trend |
-| **Banking Channel** | Branch banking remains slightly more popular (+0.4%) than digital indicating a need for hybrid optimization |
-| **Credit Score** | Weak correlation between credit score and loan approval |
-| **Fraud Risk** | 19.3% of all complaints are fraud-related; Northern region most affected (28.3% of fraud cases) |
-| **Customer Demographics** | Low-income and female customers are more vulnerable to fraud attempts |
-| **Complaint Resolution** | Average time to resolve complaints is 27 days, exceeding industry benchmarks |
-
-
 ## 📊 Key Insights  
 
-The analysis revealed actionable insights across customer behavior, branch operations, and product performance — all crucial for Metro Bank’s growth strategy.  
-
-| **Insight Area** | **Key Finding** | **Business Implication** |
-|------------------|-----------------|---------------------------|
-| 💰 **Revenue Growth** | ₦2.4M total revenue generated across all branches | Indicates consistent financial performance and customer engagement |
-| 👑 **Top Customers** | Top 5 customers contribute 41% of total revenue | Highlights dependency on a few high-value clients, increasing revenue concentration risk |
-| 🏦 **Branch Performance** | Lagos branch recorded the highest deposits and transactions | Suggests Lagos as a model branch for replicating success in other regions |
-| ⏰ **Transaction Timing** | 60% of all transactions occur between 10 AM – 3 PM | Reveals critical operational hours for optimized staffing and customer service |
-| 💳 **Customer Behavior** | Savings accounts outperform current accounts by 28% | Suggests a conservative customer base focused on savings rather than frequent transactions |
-| 📈 **Yearly Growth Trend** | Steady increase in both customers and total deposits year-over-year | Reflects business stability and trust growth among clients |
+| **Insight Area** | **Key Finding** |
+|------------------|-----------------|
+| **Customer Base** | 237 customers operate multiple accounts, creating an opportunity for cross-selling. |
+| **Account Type** | Savings accounts dominate at 38%, signals customer preference and liquidity trend. |
+|  **Banking Channel** | Branch banking remains slightly more popular (+0.4%) than digital indicating a need for hybrid optimization. |
+| **Credit Score** | Weak correlation between credit score and loan approval. |
+| **Fraud Risk** | 19.3% of all complaints are fraud-related; Northern region most affected (28.3% of fraud cases). |
+| **Customer Demographics** | Low-income and female customers are more vulnerable to fraud attempt. |
+|  **Complaint Resolution** | Average time to resolve complaints is 27 days, exceeding industry benchmarks. |
 
 ---
 
 ## 🎯 Recommendations  
 
-Based on the insights above, the following recommendations are proposed to help Metro Bank improve performance, optimize resources, and strengthen customer relationships.  
+Strategic actions designed to help Metro Bank optimize performance and customer satisfaction.
 
-### 1. **Diversify Customer Base**  
-- Develop products and campaigns targeting mid-tier and emerging customers.  
-- Reduce reliance on a few top clients to minimize revenue volatility.  
-
-### 2. **Optimize Staffing & Operations**  
-- Align employee shifts and customer service schedules with data-identified transaction peak hours (10 AM – 3 PM).  
-- Introduce automated queuing systems to handle high-traffic periods efficiently.  
-
-### 3. **Replicate High-Performing Branch Models**  
-- Use Lagos branch as a case study for training, branch design, and customer experience improvements.  
-- Share successful practices bank-wide to standardize excellence.  
-
-### 4. **Promote Current Account Usage**  
-- Offer incentives or digital benefits for customers opening or maintaining current accounts.  
-- Run financial literacy campaigns emphasizing the value of transactional accounts.  
-
-### 5. **Expand Digital Banking Channels**  
-- Enhance online and mobile banking platforms to capture off-peak transactions.  
-- Leverage digital data for customer segmentation and targeted marketing.  
-
-### 6. **Leverage Predictive Analytics**  
-- Implement SQL and Power BI predictive models to forecast:  
-  - Future deposit and withdrawal trends  
-  - Customer churn risk  
-  - Branch performance variations  
-- Use forecasts to proactively allocate resources and reduce operational risks.  
+| **Recommendation** | **Action Steps** | **Expected Outcome** |
+|--------------------|------------------|----------------------|
+| **Diversify Customer Base** | Develop mid-tier client products and loyalty programs. | Reduced revenue risk and improved portfolio balance. |
+| **Optimize Operations** | Align staffing schedules with 10 AM–3 PM transaction peaks. | Improved efficiency and reduced waiting times. |
+| **Replicate Top Branch Model** | Use Lagos branch success as a blueprint for others. | Standardized service quality and improved branch performance. |
+| **Promote Current Accounts** | Offer incentives and digital benefits for active current accounts. | Increased customer engagement and transaction volume. |
+| **Expand Digital Channels** | Enhance mobile and online platforms for seamless banking. | Broader reach and stronger customer retention. |
+| **Adopt Predictive Analytics** | Use SQL and Power BI models to forecast performance and churn. | Data-driven planning and proactive decision-making. |
 
 ---
 
 ## ⚠️ Risks of Inaction  
 
-| **Risk Area** | **Potential Impact** |
-|----------------|----------------------|
-| **Customer Dependence** | Over-reliance on top clients could lead to sudden revenue drops if key customers churn. |
-| **Operational Inefficiency** | Poor alignment with transaction peaks may increase costs and reduce customer satisfaction. |
-| **Market Competitiveness** | Missed innovation opportunities could weaken market position and digital adoption. |
+- Over-dependence on few customers could cause sudden revenue dips.  
+- Misaligned staffing with peak hours may lower customer satisfaction.  
+- Failure to modernize operations could reduce competitiveness.  
 
 ---
 
 ## 🌟 Benefits of Action  
 
-By implementing these recommendations, Metro Bank will:  
-✅ Improve profitability through smarter operations  
-✅ Strengthen customer loyalty and retention  
-✅ Enhance competitive positioning through innovation  
-✅ Enable data-driven decision-making across all departments  
+- Boosted profitability and operational efficiency.  
+- Stronger customer loyalty and retention.  
+- Data-backed decisions driving consistent growth.  
+- Sustained leadership in Nigeria’s financial service market.  
 
 ---
 
-📌 *Insight without action is just observation.*  
-This project provides both — insight **and** the roadmap to act.
+📌 *Turning data into direction — because insight only matters when it drives action.*
 
-
----
 
 ## 📊 Dashboard Visuals  
 
