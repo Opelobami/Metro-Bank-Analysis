@@ -173,8 +173,11 @@ If these insights are ignored:
 By acting decisively, Metro Bank can:
 
 ✅ Improve profitability across branches by up to 15–20%.
+
 ✅ Strengthen customer trust and retention.
+
 ✅ Reduce fraud-related losses by 30%.this   
+
 ✅ Data-backed decisions driving consistent growth.  
 
 ---
