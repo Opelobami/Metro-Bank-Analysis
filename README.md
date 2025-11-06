@@ -1,27 +1,25 @@
 # 🏦 Metro Bank Analysis  
 
-📌 A 5-week data analytics project examining customer behavior, branch performance, and risk intelligence at Metro Bank.
+📌 An analytics project examining customer behavior, branch performance, and risk intelligence at Metro Bank.
 
 ---
 
 ## 📘 Overview  
 The Metro Bank Analysis is a comprehensive data analytics project designed to uncover key behavioral, operational, and financial patterns across Metro Bank’s ecosystem.
 
-Conducted using Microsoft Excel, the analysis explored six major dimensions of the bank’s operations:
+Conducted using Microsoft Excel, the analysis explored five major dimensions of the bank’s operations:
 
 - Customer Behavior
 
-- Accounts & Transactions
+- Accounts Analysis
+
+- Transactions
 
 - Branch Performance
 
-- Customer Experience
+- Customer Experience and Risk Intelligence
 
-- Credit & Loan Analysis
-
-- Risk Intelligence
-
-The ultimate goal was to transform raw operational data into clear, actionable insights that empower executives to:
+The ultimate goal is to transform raw operational data into clear, actionable insights that empower executives to:
 
 - Enhance customer satisfaction,
 
@@ -30,6 +28,26 @@ The ultimate goal was to transform raw operational data into clear, actionable i
 - Improve branch-level efficiency, and
 
 - Drive profitable decision-making across all banking channels.  
+
+---
+
+## 💡Why This Project Matters
+
+In an era of **data-driven banking**, decisions backed by analytics lead to:
+
+- **Stronger customer retention** through personalized banking experiences,
+
+- **Faster fraud detection** using pattern recognition,
+
+- **Higher profitability** via efficient branch and loan management, and
+
+- **Improved regulatory** compliance through structured data governance.
+
+Without analytics, banks risk:
+⚠️ Misallocating resources,
+⚠️ Overlooking at-risk customers,
+⚠️ Missing early fraud indicators, and
+⚠️ Failing to act on emerging market trends.  
 
 ---
 
@@ -72,35 +90,17 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 
 ---
 
-## 💡Why This Project Matters
-
-In an era of **data-driven banking**, decisions backed by analytics lead to:
-
-- **Stronger customer retention** through personalized banking experiences,
-
-- **Faster fraud detection** using pattern recognition,
-
-- **Higher profitability** via efficient branch and loan management, and
-
-- **Improved regulatory** compliance through structured data governance.
-
-Without analytics, banks risk:
-⚠️ Misallocating resources,
-⚠️ Overlooking at-risk customers,
-⚠️ Missing early fraud indicators, and
-⚠️ Failing to act on emerging market trends.  
-
----
-
 ## 💡 Key Insights  
 
  **Area** | **Key Finding** | 
 |------------------|-----------------|-------------|
-| **Revenue Growth** | ₦2.4M total revenue generated | Signals healthy customer engagement and sales consistency |
-| **Top Customers** | Top 5 customers contribute 41% of total revenue | Indicates dependency on a few high-value clients |
-| **Branch Performance** | Lagos branch leads in deposits and transactions | Suggests potential model for replicating success in other regions |
-| **Transaction Timing** | 60% of transactions occur between 10 AM – 3 PM | Reveals peak business hours for staffing and operations |
-| **Customer Behavior** | Savings accounts outperform current accounts by 28% | Points to a conservative customer base focused on savings |
+| **Customer Base** | 237 customers operate multiple accounts, creating an opportunity for cross-selling |
+| **Account Type** | Savings accounts dominate at 38%, signals customer preference and liquidity trend |
+| **Banking Channel** | Branch banking remains slightly more popular (+0.4%) than digital indicating a need for hybrid optimization |
+| **Credit Score** | Weak correlation between credit score and loan approval |
+| **Fraud Risk** | 19.3% of all complaints are fraud-related; Northern region most affected (28.3% of fraud cases) |
+| **Customer Demographics** | Low-income and female customers are more vulnerable to fraud attempts |
+| **Complaint Resolution** | Average time to resolve complaints is 27 days, exceeding industry benchmarks |
 
 ---
 
@@ -127,6 +127,29 @@ Without analytics, banks risk:
 [Complaint to Strategy] (https://drive.google.com/file/d/1WuLtYxZX0Tp0ZxERRns5SqycQatvXtrf/view?usp=drive_link)
 
 ---
+
+## 🧠 Key Takeaways
+
+- **Branch Banking Still Matters:** Despite digital growth, customers still value human interaction for complex needs
+- **Fraud and Complaints Are Silent Profit Eroders:** Delays in resolution reduce trust and increase attrition
+- **Customer Segmentation is Underutilized:** Identifying and rewarding loyal, high-value customers can drive lifetime value
+- **Data Gaps Exist in Credit Assessment:** Lending decisions need better integration of behavioral and transactional metrics.
+
+---
+
+## 🎯 Recommendations
+
+ **Area** | **Key Finding** | **Benefits** |
+|------------------|-----------------|-------------|
+| **Customer Base** | 237 customers operate multiple accounts, creating an opportunity for cross-selling |
+| **Account Type** | Savings accounts dominate at 38%, signals customer preference and liquidity trend |
+| **Banking Channel** | Branch banking remains slightly more popular (+0.4%) than digital indicating a need for hybrid optimization |
+| **Credit Score** | Weak correlation between credit score and loan approval |
+| **Fraud Risk** | 19.3% of all complaints are fraud-related; Northern region most affected (28.3% of fraud cases) |
+| **Customer Demographics** | Low-income and female customers are more vulnerable to fraud attempts |
+| **Complaint Resolution** | Average time to resolve complaints is 27 days, exceeding industry benchmarks |
+
+
 
 ## 🧾 Conclusion  
 The analysis highlights key areas influencing **customer behavior**, **branch profitability**, and **operational risks**.  Findings emphasize the need for **data-driven customer management**, **targeted risk mitigation**, and **regional performance optimization**.  
