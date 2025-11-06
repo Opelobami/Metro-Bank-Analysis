@@ -115,22 +115,22 @@ The dataset was sourced from Excel With Freedom community project - a simulated 
 > Click the links below to view individual dashboards hosted on Google Drive 👇  
 
 ### 1. Customer Distribution  
-[Customer Distribution] (https://drive.google.com/file/d/10fwCZhNc0X_CaiMkOLef-wkvn3ihicgA/view?usp=drive_link)
+[Customer Distribution](https://drive.google.com/file/d/10fwCZhNc0X_CaiMkOLef-wkvn3ihicgA/view?usp=drive_link)
 
 ### 2. Account Analysis  
-[Financial Relationships] (https://drive.google.com/file/d/18OqnqAg9whWz5QJzqrqlMScGNR4xch0X/view?usp=drive_link)
+[Financial Relationships](https://drive.google.com/file/d/18OqnqAg9whWz5QJzqrqlMScGNR4xch0X/view?usp=drive_link)
 
 ### 3. Transaction Dashboard  
-[Transaction Experience] (https://drive.google.com/file/d/1pjpDUfct9uSrxcyoUXFv77dfNkBxWZhD/view?usp=drive_link)
+[Transaction Experience](https://drive.google.com/file/d/1pjpDUfct9uSrxcyoUXFv77dfNkBxWZhD/view?usp=drive_link)
 
 ### 4. Branch Analysis  
-[Branch Performance Review] (https://drive.google.com/file/d/1W3DM3b_EGUJcC-Gf6ac4WxYf6xTF8Euf/view?usp=drive_link)
+[Branch Performance Review](https://drive.google.com/file/d/1W3DM3b_EGUJcC-Gf6ac4WxYf6xTF8Euf/view?usp=drive_link)
 
 ### 5. Customer Experience  
-[Complaints to Strategy] (https://drive.google.com/file/d/1yhHXujYFgvCI5YAJWeCMMzV84bqdu4GO/view?usp=drive_link)
+[Complaints to Strategy](https://drive.google.com/file/d/1yhHXujYFgvCI5YAJWeCMMzV84bqdu4GO/view?usp=drive_link)
 
 ### 6. Risk Intelligence  
-[Complaint to Strategy] (https://drive.google.com/file/d/1WuLtYxZX0Tp0ZxERRns5SqycQatvXtrf/view?usp=drive_link)
+[Complaint to Strategy](https://drive.google.com/file/d/1WuLtYxZX0Tp0ZxERRns5SqycQatvXtrf/view?usp=drive_link)
 
 ---
 
