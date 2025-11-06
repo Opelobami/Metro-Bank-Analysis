@@ -171,6 +171,7 @@ If these insights are ignored:
 ## 🌟 Benefits of Action  
 
 By acting decisively, Metro Bank can:
+
 ✅ Improve profitability across branches by up to 15–20%.
 ✅ Strengthen customer trust and retention.
 ✅ Reduce fraud-related losses by 30%.this   
@@ -190,9 +191,7 @@ The Metro Bank Analysis demonstrates how data can unveil hidden patterns that dr
 Let’s connect or collaborate on **Data Analytics, Excel Dashboards, or Power BI projects** 👇  
 
 - **👤 Name:** Opeyemi Ayodeji  
-- **🔗 LinkedIn:** [Opeyemi Ayodeji] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **🔗 LinkedIn:** [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
 - **📧 Email:** sopeyemi65@gmail.com  
 
 ---
-
-📌 *Turning data into direction because insight only matters when it drives action.*
